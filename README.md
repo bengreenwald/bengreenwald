@@ -1,9 +1,8 @@
-- 👋 Hello!
-- 📊 I'm a data analyst specializing in data visualization and storytelling. 
-- ✨ I’m currently designing data experiences for clients at [CompassRed](https://www.compassred.com/).
-- 🌱 I’m currently learning Figma and Python.
-- 💬 Ask me about R, soccer, and scotch.
-- 😄 Pronouns: he/him
+- 👋 Hello! I'm Ben (he/him).
+- 📊 I'm a product analyst specializing in data visualization and storytelling. 
+- ✨ I’m currently leveraging data at [Niche](https://www.niche.com/) to help students and families find their best-fit school communities.
+- 🔨 My favorite tools are R, Figma, Snowflake, and Airtable.
+- 💬 Ask me about soccer, scotch, or my dog.
 
 <!---
 bengreenwald/bengreenwald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
