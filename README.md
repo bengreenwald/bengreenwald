@@ -1,7 +1,7 @@
 - 👋 Hello! I'm Ben (he/him).
-- 📊 I'm a product analyst specializing in data visualization and storytelling. 
-- ✨ I’m currently leveraging data at [Niche](https://www.niche.com/) to help students and families find their best-fit school communities.
-- 🔨 My favorite tools are R, Figma, Snowflake, and Airtable.
+- 📊 I'm an experienced analyst specializing in data analytics, product analytics, visualization, and storytelling. 
+- ✨ I’m currently at [Niche](https://www.niche.com/), where I'm focused on helping students and families find their best-fit school communities.
+- 🔨 My favorite tools are R, SQL, dbt, Tableau, Google Analytics, Looker, Figma, and Airtable.
 - 💬 Ask me about soccer, scotch, or my dog.
 
 <!---
