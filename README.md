@@ -1,7 +1,7 @@
 - 👋 Hello! I'm Ben (he/him).
 - 📊 I'm an experienced analyst specializing in data analytics, product analytics, visualization, and storytelling. 
-- ✨ I’m currently at [Niche](https://www.niche.com/), where I'm focused on helping students and families find their best-fit school communities.
-- 🔨 My favorite tools are R, SQL, dbt, Tableau, Google Analytics, Looker, Figma, and Airtable.
+- ✨ I’m currently at [Modern Health](https://www.modernhealth.com/), where I'm focused on helping to improve mental health outcomes for people and communities across the world. 
+- 🔨 My favorite tools are R, SQL, Snowflake, dbt, BigQuery, Tableau, Looker, Google Analytics, and Figma.
 - 💬 Ask me about soccer, scotch, or my dog.
 
 <!---
